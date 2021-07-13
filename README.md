@@ -1,1 +1,1 @@
-# Boilerplate do NextJS
+# Curso React Avançado
