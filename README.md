@@ -26,6 +26,6 @@
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
 
-### Observação
+### Observações
 
 O Repositório vem sempre sendo atualizado conforme o progresso do curso [React Avançado](https://www.udemy.com/course/react-avancado/)
